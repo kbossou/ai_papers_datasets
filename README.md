@@ -1,0 +1,1 @@
+This repository contains AI paper titles (with a link to the paper on Google Scholar) published from 2000 to 2017 in three major AI conferences: Association for the Advancement of Artificial Intelligence (AAAI), International Joint Conference on Artificial Intelligence (IJCAI), and Conference on Neural Information Processing Systems (NeurIPS). 
